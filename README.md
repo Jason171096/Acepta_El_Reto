@@ -1,4 +1,4 @@
-# Competitive Programming "Acepta el Reto" 
+# Competitive Programming [Acepta el Reto](https://www.aceptaelreto.com) 
 ------------
 
 ## Getting Started 🚥
